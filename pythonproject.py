@@ -1,3 +1,12 @@
+#-----------------------------------------------------
+# Name: Sudhanshu Kumar
+# ERP: RU-26-01999
+# Email: sudhanshukumarsingh4566@gmail.com
+# section: BCA 1A
+# PS No.: 51
+#Project Title: Digital Dairy/Notes Manager
+#-----------------------------------------------------
+
 import json
 from datetime import datetime
 
